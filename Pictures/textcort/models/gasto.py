@@ -18,4 +18,4 @@ class Gasto(Base):
             "monto": round(self.monto, 2),
             "categoria": self.categoria,
             "fecha": self.fecha
-        }
+        }te amo lexy te amo te amo +
